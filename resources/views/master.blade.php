@@ -38,7 +38,7 @@
                       <span class="sr-only">Toggle navigation</span>
                       Menu
                     </button>
-                    <a class="navbar-brand" href="#">Rebecca Doris</a>
+                    <a class="navbar-brand" href="/">Rebecca Doris</a>
                   </div>
                   <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
@@ -47,8 +47,8 @@
                       <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sample Projects <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                          <li><a href="#">PHP</a></li>
-                          <li><a href="#">JavaScript</a></li>
+                          <li><a href="http://p2.beckrecca.me" target="_blank">PHP</a></li>
+                          <li><a href="http://budgetbuddy.beckrecca.me" target="_blank">JavaScript</a></li>
                           <li><a href="#">Digital Media</a></li>
                         </ul>
                       </li>

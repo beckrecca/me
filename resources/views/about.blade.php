@@ -9,7 +9,7 @@
 	    		<img src="img/myface/kentfalls.JPG" class="img-responsive img-circle pull-right">
 	    		<h1>Hello!</h1>
 	    		<p>My name is Rebecca. I love to create things, especially using web technologies.</p>
-				<h3>Right Now</h3>
+				<h3>What's My Deal?</h3>
 
 				<p>
 					Currently, I am studying Information Technology with a major in Digital Media Arts and
