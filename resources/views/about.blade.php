@@ -6,7 +6,7 @@
     <header>
     	<div class="jumbotron">
     		<div class="container">
-	    		<img src="img/myface/kentfalls.jpg" class="img-responsive img-circle pull-right">
+	    		<img src="img/myface/kentfalls.JPG" class="img-responsive img-circle pull-right">
 	    		<h1>Hello!</h1>
 	    		<p>My name is Rebecca. I love to create things, especially using web technologies.</p>
 				<h3>What's My Deal?</h3>
