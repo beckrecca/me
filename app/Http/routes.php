@@ -30,6 +30,10 @@ Route::get('/contact', function()
 {
 	return view('contact');
 });
+Route::get('/dgmd', function()
+{
+	return view('dgmd');
+});
 
 Route::get('download-resume', function()
 {

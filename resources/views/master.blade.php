@@ -15,6 +15,7 @@
 
     <!-- Custom CSS -->
     <link href="css/full-slider.css" rel="stylesheet">
+    <link href="css/thumbnail-gallery.css" rel="stylesheet">
 
     <!-- Becky's CSS -->
     <link href="css/custom.css" rel="stylesheet">
