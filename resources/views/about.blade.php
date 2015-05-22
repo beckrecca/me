@@ -1,6 +1,6 @@
 @extends('master')
 
-@section('title', 'Aspiring Computer Person')
+@section('title', 'About Rebecca')
 
 @section('header')
     <header>
