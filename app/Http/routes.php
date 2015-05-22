@@ -35,6 +35,11 @@ Route::get('/dgmd', function()
 	return view('dgmd');
 });
 
+Route::get('/view-{photo}', function($photo)
+{
+	return view('photo', ['file' => $photo]);
+});
+
 Route::get('download-resume', function()
 {
     $file = public_path('img') . '/' . 'resume.pdf';
