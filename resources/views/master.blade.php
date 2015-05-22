@@ -96,5 +96,7 @@
             interval: 5000 //changes the speed
         })
         </script>
+
+        @yield('end')
     </body>
 </html>

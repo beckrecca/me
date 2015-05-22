@@ -105,11 +105,19 @@ img {
   font-weight:bold;
 }
 .resume-list, .resume-list>li {
-  list-style-type: none;
+  list-style-type: circle;
   margin-top: 0px;
   padding-top: 0px;
 }
 .video-thumbnail {
   width: 560px;
   padding-bottom: 2em;
+}
+
+#coursework>ul{
+  list-style-type: none;
+  padding: 0;
+}
+#coursework>ul>li{
+  font-weight:bold;
 }
