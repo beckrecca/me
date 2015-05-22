@@ -19,7 +19,7 @@
 
             <div class="col-lg-12">
                 <iframe class="hidden-xs" width="560" height="315" src="https://www.youtube.com/embed/Fo2MuZtegGw" frameborder="0" allowfullscreen></iframe>
-                <div class="hidden-sm visible-xs">
+                <div class="hidden-lg hidden-md hidden-sm visible-xs">
                     <a href="https://www.youtube.com/embed/Fo2MuZtegGw" target="_blank">"Jurassic Peaks" on Youtube.</a>
                 </div>
                 <br>
@@ -30,7 +30,7 @@
 
             <div class="col-lg-12">
                 <iframe class="hidden-xs" width="560" height="315" src="https://www.youtube.com/embed/Bh4KIR89uic" frameborder="0" allowfullscreen></iframe>
-                <div class="hidden-sm visible-xs">
+                <div class="hidden-lg hidden-md hidden-sm visible-xs">
                     <a href="https://www.youtube.com/embed/Bh4KIR89uic" target="_blank">"Dough Timelapse" on Youtube.</a>
                 </div>
                 <br>
