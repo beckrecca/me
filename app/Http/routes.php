@@ -20,3 +20,14 @@ Route::get('/about', function()
 {
 	return view('about');
 });
+
+Route::get('/resume', function()
+{
+	return view('resume');
+});
+
+Route::get('download-resume', function()
+{
+    $file = public_path('img') . '/' . 'resume.pdf';
+    return response()->download($file);
+});
