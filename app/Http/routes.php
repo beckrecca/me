@@ -26,6 +26,11 @@ Route::get('/resume', function()
 	return view('resume');
 });
 
+Route::get('/contact', function()
+{
+	return view('contact');
+});
+
 Route::get('download-resume', function()
 {
     $file = public_path('img') . '/' . 'resume.pdf';
