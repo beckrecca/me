@@ -1,6 +1,6 @@
 @extends('master')
 
-@section('title', 'Funtimes!')
+@section('title', 'Photo and Video Too')
 
 @section('header')
     <header>
@@ -11,6 +11,28 @@
 @stop
 
 @section('content')
+            <div class="row">
+
+            <div class="col-lg-12">
+                <h4 class="page-header">Videos</h4>
+            </div>
+
+            <div class="col-lg-12">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Fo2MuZtegGw" frameborder="0" allowfullscreen></iframe>
+                <div class="video-thumbnail">
+                    Part of my final project for a digital media class, this is an edit of the "They can open doors..." scene of Jurassic Park.
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Bh4KIR89uic" frameborder="0" allowfullscreen></iframe>
+                <div class="video-thumbnail">
+                    A timelapse of dough rising, shot with a Canon 70D every 15 seconds for a bit less than an hour.
+                </div>
+            </div>
+
+            </div>
+
 			<div class="row">
 
             <div class="col-lg-12">

@@ -5,7 +5,7 @@
 @section('header')
     <header>
 		<div class="container">
-    		<a href="javascript:history.back();">&lt;&lt;&lt;</a>
+    		<p><a href="javascript:history.back();">Go Back</a></p>
     	</div>
 	</header>
 @stop
