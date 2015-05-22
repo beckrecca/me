@@ -109,11 +109,9 @@ img {
   margin-top: 0px;
   padding-top: 0px;
 }
-.video-thumbnail {
-  width: 560px;
-  padding-bottom: 2em;
+.space {
+  margin-bottom: 2em;
 }
-
 #coursework>ul{
   list-style-type: none;
   padding: 0;
