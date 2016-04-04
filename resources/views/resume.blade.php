@@ -25,7 +25,7 @@
 				Candidate for ALM in Extension Studies, admitted January 2014 <br>
 				Concentration: Information Technology <br>
 				Major: Digital Media Arts and Instructional Design <br>
-				Current GPA: 3.93 <br>
+				Current GPA: 3.95 <br>
 				<a href="#" id="show-coursework">Click for courses covered</a>
 			</p>
 
