@@ -123,6 +123,10 @@
 						<ul>
 							<li>photography, audio, video</li>
 						</ul>
+					<li>Fall 2015: Introduction to Instructional Design</li>
+						<ul>
+							<li>instructional design theories and frameworks</li>
+						</ul>
 				</ul>
 			</div>
 		</div>

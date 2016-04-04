@@ -51,6 +51,7 @@
                           <li><a href="http://p2.beckrecca.me" target="_blank">PHP</a></li>
                           <li><a href="http://budgetbuddy.beckrecca.me" target="_blank">JavaScript</a></li>
                           <li><a href="dgmd">Digital Media</a></li>
+                          <li><a href="http://www.beckrecca.me/howdocarswork" target="_blank">Instructional Design</a></li>
                         </ul>
                       </li>
                       <li class="dropdown">
